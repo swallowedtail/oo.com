@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-29 16:01:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-29 16:01:33 W3SVC1078992261 88.208.252.150 GET /lists/ - 80 - 24.116.177.66 HTTP/1.1 Python-urllib/2.7 - - 404 0 2 1405 130 296
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-29 16:21:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-29 16:21:52 W3SVC1078992261 88.208.252.150 GET /war04.shtml - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 3 50 1405 288 483

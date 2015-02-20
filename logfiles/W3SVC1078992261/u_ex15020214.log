@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-02 14:48:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-02 14:48:42 W3SVC1078992261 88.208.252.150 GET /images/war/war03intro.jpg - 80 - 207.46.13.116 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 49524 292 2948

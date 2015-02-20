@@ -1,0 +1,10 @@
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] -----------------------------------------------------------------------
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] This scan has been initiated by an automated process to search for
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] files and installations that may be compromised
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] No changes are made to your site during this scan.
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] Version 2.1.8 [Built 06-06-2014]
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [               NOTICE ] -----------------------------------------------------------------------
+[IIS667] [2014/10/05 22:44:45] [ykxwjnvj] [                 INFO ] Checking e:\domains\o\ooh-oink.com\user\
+[IIS667] [2014/10/05 22:45:12] [ykxwjnvj] [              SUMMARY ] [e:\domains\o\ooh-oink.com\user\] [1022 files found] [229 files scanned]
+[IIS667] [2014/10/05 22:45:12] [ykxwjnvj] [              SUMMARY ] [e:\domains\o\ooh-oink.com\user\] [Path appears clean]
+[IIS667] [2014/10/05 22:45:12] [ykxwjnvj] [              SUMMARY ] [e:\domains\o\ooh-oink.com\user\] [Scan completed in 27 seconds]

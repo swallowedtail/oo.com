@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-30 00:25:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-30 00:25:23 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 217.69.133.222 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 200 0 0 398 246 2527
+2015-01-30 00:25:25 W3SVC1078992261 88.208.252.150 GET / - 80 - 217.69.133.224 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 200 0 0 2061 268 156
+2015-01-30 00:25:43 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 217.69.133.221 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 200 0 0 398 250 187
+2015-01-30 00:25:46 W3SVC1078992261 88.208.252.150 GET /war03.shtml - 80 - 217.69.133.222 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 404 3 50 1424 283 327

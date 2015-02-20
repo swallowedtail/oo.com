@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-30 22:34:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-30 22:34:55 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 66.249.78.26 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 379 257 546
+2015-01-30 22:34:55 W3SVC1078992261 88.208.252.150 GET /family02.shtml - 80 - 66.249.78.40 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 3 50 1405 368 46
+2015-01-30 22:41:37 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 217.69.133.225 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 200 0 0 398 250 187
+2015-01-30 22:41:38 W3SVC1078992261 88.208.252.150 GET /war01.shtml - 80 - 217.69.133.68 HTTP/1.1 Mozilla/5.0+(compatible;+Linux+x86_64;+Mail.RU_Bot/2.0;++http://go.mail.ru/help/robots) - - 404 3 50 1424 283 171

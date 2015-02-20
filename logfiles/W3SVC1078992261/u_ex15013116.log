@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-31 16:01:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-31 16:01:32 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 200 0 0 398 198 405
+2015-01-31 16:01:41 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 200 0 0 398 194 3385
+2015-01-31 16:01:41 W3SVC1078992261 88.208.252.150 GET / - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 304 0 0 230 260 436
+2015-01-31 16:01:59 W3SVC1078992261 88.208.252.150 GET / - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 304 0 0 230 264 436

@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-02 07:32:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-02 07:32:54 W3SVC1078992261 88.208.252.150 PUT /lemon.txt - 80 - 116.255.183.133 HTTP/1.1 - - - 404 0 2 1405 95 1092
+2015-02-02 07:32:55 W3SVC1078992261 88.208.252.150 GET /lemon.txt - 80 - 116.255.183.133 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) - - 404 0 2 1405 172 546

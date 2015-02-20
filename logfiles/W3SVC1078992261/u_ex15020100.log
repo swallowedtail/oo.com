@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-01 00:56:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-01 00:56:28 W3SVC1078992261 88.208.252.150 GET / - 80 - 198.252.44.11 HTTP/1.0 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - - 200 0 0 2066 214 1154
+2015-02-01 00:56:29 W3SVC1078992261 88.208.252.150 GET / - 80 - 198.252.44.11 HTTP/1.0 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - - 200 0 0 2066 214 124
+2015-02-01 00:56:29 W3SVC1078992261 88.208.252.150 GET / - 80 - 198.252.44.11 HTTP/1.0 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - - 200 0 0 2066 214 124

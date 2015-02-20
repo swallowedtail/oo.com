@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-03 12:06:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-03 12:06:41 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 200 0 0 398 194 1622
+2015-02-03 12:06:52 W3SVC1078992261 88.208.252.150 GET / - 80 - 220.181.125.178 HTTP/1.1 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - - 304 0 0 230 260 436
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-03 12:45:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-03 12:45:03 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 188.165.15.10 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - 200 0 0 379 177 499

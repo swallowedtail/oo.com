@@ -1,0 +1,9 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-01-30 17:02:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-01-30 17:02:40 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 379 182 78
+2015-01-30 17:02:42 W3SVC1078992261 88.208.252.150 GET / - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 2042 277 78
+2015-01-30 17:02:51 W3SVC1078992261 88.208.252.150 GET / - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 1187 281 78
+2015-01-30 17:02:54 W3SVC1078992261 88.208.252.150 GET / - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 1187 277 78
+2015-01-30 17:02:55 W3SVC1078992261 88.208.252.150 GET / - 80 - 5.255.253.223 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 1187 281 78

@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2015-02-02 08:04:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-02 08:04:18 W3SVC1078992261 88.208.252.150 GET /robots.txt - 80 - 157.55.39.206 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 379 264 499
+2015-02-02 08:04:24 W3SVC1078992261 88.208.252.150 GET /images/family1/DSCN2598.JPG - 80 - 157.55.39.206 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 341933 294 1560
