@@ -1,2 +1,4 @@
 Options +Includes
-AddHandler server-parsed .shtml .stm .shtm
+
+AddType text/html .shtml
+AddOutputFilter INCLUDES .shtml

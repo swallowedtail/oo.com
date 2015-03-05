@@ -1,33 +1,30 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 	<title>OOOOOOOOOH-OINK!</title>
 <meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1" />
 <meta name="author" content="Robert Mitchell" />
-<meta name="copyright" content="Robert Mitchell" />
-<meta name="copyright" content="ooh-oink.com" />
 <meta name="description" content="Photos relating to the war experiences of Don Gowlett, 1/4 Battalion, 4th Indian Division, Essex Regiment 1939-1945" />
-<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid vree conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino cyprus" />
+<meta name="keywords" content="mitchell gowlett stimson yates melvin mcdermid conroy 1939-45 war WWII WW2 world war two freetown sierra leone el alamein north africa italy monte cassino cyprus" />
 <meta name="rating" content="general" /> 
 
 <link rel="stylesheet" href="styles/main.css" />
-<script src="scripts/warSwapper.js" language="JavaScript" type="text/JavaScript"></script>
+<script src="scripts/warSwapper.js" type="text/JavaScript"></script>
 
 </head>
 
 <!-- BEGIN PAGE -->
 <body>
 <div class="container">
-	<!--#include file="includes/masthead01.html" -->
+	<!--#include virtual="includes/masthead01.html" -->
 
 	<div class="mainarea">
-		<div class="homepic"><img id="imgPhoto" src="images/home/sign.jpg" alt="" border="0" width="929" height="697" usemap="#map" /></div>
+		<div class="homepic"><img id="imgPhoto" src="images/home/sign.jpg" alt="" width="929" height="697" usemap="#map" /></div>
 	</div>
 
 </div>
 
-<map name="map">
+<map name="map" id="map">
 <area shape="rect" coords="254,148,452,329" alt="photos from 1939-45 - Sierra Leone, North Africa" title="photos from 1939-45 - Sierra Leone, North Africa" href="war01.shtml" />
 <area shape="rect" coords="515,163,702,321" alt="my photo gallery - under construction" title="my photo gallery - under construction" href="fauna01.shtml" />
 <area shape="rect" coords="238,426,437,509" alt="family stuff - under construction" title="family stuff - under construction" href="family01.shtml" />
