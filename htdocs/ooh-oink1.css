@@ -1,37 +1,28 @@
 body, p, td {
-
 font-family: Arial, Helvetica, sans-serif;
-
 font-size: 11px;
-
 line-height: 16px;
-
 color: #330066;
-
 }
 
+body div {
+	width:700px;
+	height:700px;
+	background-image: url(images/home/knight01.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+}
 
 .desc1 {
-
 font-family: Arial, Helvetica, sans-serif;
-
 font-size: 11px;
-
 line-height: 16px;
-
 color: "blue"; 
-
 }
 
-
 .desc2 {
-
 font-family: Arial, Helvetica, sans-serif;
-
 font-size: 11px;
-
 line-height: 16px;
-
 color: #000000; 
-
 }
